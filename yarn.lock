@@ -46,6 +46,11 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
+"@markdoc/markdoc@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@markdoc/markdoc/-/markdoc-0.1.4.tgz#2f229ce3feb80aa781c0d8f453f7a7a614e1248a"
+  integrity sha512-WOm+jwCeDyWtshIc5tjZ/AD+rFpqL9b1YAUiC975VlZISxRXt2G6Df5G3RwH420Jbavtik50r2tDInnEWIS8nQ==
+
 "@next/env@12.2.3":
   version "12.2.3"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-12.2.3.tgz#64f210e74c137d3d9feea738795b055a7f8aebe2"
